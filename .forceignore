@@ -10,3 +10,5 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+force-app/main/default/flexipages/Property_Record_Page.flexipage-meta-old_xml
+force-app/main/default/flexipages/Property_Record_Page.flexipage-meta-old2xml
